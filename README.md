@@ -8,10 +8,11 @@
 ### <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
-const humbertovz = {
+let humbertovz = {
+  birthdate: "26/JUN/97",
   pronouns: "he" | "him",
-  code: [Javascript, C#, Python, Java, HTML, CSS],
-  tools: [React, Node, Django, VSCode, SQL],
+  code: ["Javascript", "C#", "Python", "Java", "C++", "HTML", "CSS"],
+  tools: [React, Node, Django, VSCode, MySQL],
   architecture: ["front_end", "back_end", "cloud"],
   certifications: ["Azure AZ-900"],
   challenge: "Focused on learning react, node and typescript"
