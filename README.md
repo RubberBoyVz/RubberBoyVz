@@ -1,8 +1,20 @@
-# Who am I? 😃
-My name is Humberto Vázquez Santiago. I'm a Computer Systems Engineer, graduated from the Instituto Politécnico Nacional. I'm interested in Front-End and Back-End Development. I'm mexican, so i like tacos and churros.
+<h2> Hi, I'm Humberto Vázquez! <img src="https://media.giphy.com/media/5UfYFCPMXVUTC/giphy.gif" width="50"></h2>
+<p><em>Computer Systems Engineer at <a href="https://www.ipn.mx/">IPN</a>🎓</br>Cloud Intern at <a href="https://b-more.tech/">B-More</a>💻
+</em></p>
 
-# What am I working on? 🤔
+[![Twitter: RubberBoyVz](https://img.shields.io/twitter/follow/RubberBoyVz?style=social)](https://twitter.com/RubberBoyVz)
+[![Linkedin: Humberto Vázquez](https://img.shields.io/badge/-Humberto_Vazquez-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/humberto-v%C3%A1zquez-santiago-883028219/)](https://www.linkedin.com/in/humberto-v%C3%A1zquez-santiago-883028219/)
 
-I'm currently working at [B-More](https://b-more.tech/) as a Cloud Intern in the Cloud area. I'm currently studying Microsoft Azure Services, to be able to obtain the Azure Fundamentals and the Azure Developer Associate certifications.
+### <img src="https://media.giphy.com/media/IauL6LvGNlT3ffhcqq/giphy.gif" width="50"> A little more about me...  
 
-I'm also continually learning Javascript and Python, and some of its frameworks like Node, React and Django.
+```javascript
+const humbertovz = {
+  pronouns: "he" | "him",
+  code: [Javascript, C#, Python, Java, HTML, CSS],
+  tools: [React, Node, Django, VSCode, SQL],
+  architecture: ["front_end", "back_end", "cloud"],
+  certifications: ["Azure AZ-900"],
+  challenge: "Focused on learning react, node and typescript"
+}
+```
+---
